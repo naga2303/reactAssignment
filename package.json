@@ -1,0 +1,24 @@
+{
+  "name": "reactassignment",
+  "version": "1.0.0",
+  "description": "repo to create npm projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naga2303/reactAssignment.git"
+  },
+  "author": "Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naga2303/reactAssignment/issues"
+  },
+  "homepage": "https://github.com/naga2303/reactAssignment#readme",
+  "dependencies": {
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
