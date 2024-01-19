@@ -4,7 +4,10 @@
   "description": "repo to create npm projects",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+
   },
   "repository": {
     "type": "git",
@@ -17,8 +20,12 @@
   },
   "homepage": "https://github.com/naga2303/reactAssignment#readme",
   "dependencies": {
+    "parcel": "^2.11.0",
     "process": "^0.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserslist": [
+    "last 100 versions"
+  ]
 }
