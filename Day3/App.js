@@ -62,9 +62,9 @@ const HeaderCssComponent = () =>{
     return (
         <div className="header">
             
-                <img  src="https://img.freepik.com/free-vector/food-shopping-logo-template-design_460848-10299.jpg" className="logo" height={100} width={150}/>
+                <img  src="https://img.freepik.com/free-vector/food-shopping-logo-template-design_460848-10299.jpg" className="logo" height={50} width={50}/>
                 <input className="textbox" type="text"></input>
-                <img className="user" src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png" height={100} width={120}/>
+                <img className="user" src="https://cdn-icons-png.flaticon.com/512/9131/9131529.png" height={50} width={50}/>
 
             
         </div>

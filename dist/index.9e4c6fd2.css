@@ -1,3 +1,21 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
 
+.logo {
+  order: 1;
+}
+
+.textbox {
+  order: 2;
+}
+
+.user {
+  cursor: pointer;
+  order: 3;
+}
 
 /*# sourceMappingURL=index.9e4c6fd2.css.map */
